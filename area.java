@@ -1,3 +1,4 @@
+//wap to find area
 package com.company;
 
 import java.util.Scanner;
